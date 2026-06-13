@@ -22,7 +22,7 @@ Offensive security researcher focused on pentesting and CTFs. Building tools, br
 
 ### 🏆 CTF & Platforms
 
-<a href="https://app.hackthebox.com/profile/overview/s4l1"><img src="https://img.shields.io/badge/HackTheBox-s4l1%20%23DZ-9FEF00?style=flat&logo=hackthebox&logoColor=white" /></a>
+<a href="https://app.hackthebox.com/users/3433332"><img src="https://img.shields.io/badge/HackTheBox-s4l1%20%23DZ-9FEF00?style=flat&logo=hackthebox&logoColor=white" /></a>
 
 **HTB Season 11 Silver** · Active competitor — machines, pro labs, and challenges
 
