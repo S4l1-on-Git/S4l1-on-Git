@@ -16,7 +16,7 @@ Offensive security researcher focused on pentesting and CTFs. Building tools, br
 
 ### 🛠️ Tech
 
-`Python` `C` `C++` `Java` `Shell` `MQTT` `ESP32` `KVM/QEMU` `Parrot OS` `Splunk`
+`Python` `C` `C++` `Java` `Shell` `MQTT` `ESP32` `KVM/QEMU` `Parrot OS`
 
 ---
 
