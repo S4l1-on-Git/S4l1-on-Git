@@ -27,7 +27,7 @@ Offensive security student pivoting into exploit development and vulnerability r
 <a href="https://tryhackme.com/p/s4l1"><img src="https://img.shields.io/badge/TryHackMe-s4l1-212C42?style=flat&logo=tryhackme&logoColor=white" /></a>
 <a href="https://leetcode.com/u/SeifArselan/"><img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
 
-- **Hack The Box:** Season 11 — Ruby Tier (Rank 2283). Experienced in machines and challenges.
+- **Hack The Box:** Experienced in machines and challenges.
 - **LeetCode:** Solved 350+ problems in Java (July 2025 – March 2026), focusing on data structures and algorithms.
 
 ---
